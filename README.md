@@ -1,2 +1,2 @@
 # Large-Model
-大模型
+基础大模型LLAMA1
